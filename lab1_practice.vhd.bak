@@ -1,0 +1,21 @@
+--
+-- VHDL Architecture my_project.lab1.practice
+--
+-- Created:
+--          by - Timothy.UNKNOWN (TIMOTHY)
+--          at - 12:30:17 01/20/2017
+--
+-- using Mentor Graphics HDL Designer(TM) 2015.1b (Build 4)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+
+ENTITY lab1 IS
+END ENTITY lab1;
+
+--
+ARCHITECTURE practice1 OF lab1 IS
+BEGIN
+END ARCHITECTURE practice1;
+
